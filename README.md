@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Computer Engineering Student at Chulalongkorn University.
+## Hi there 👋
 
 <!--
 **champNorapat/champNorapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,8 +19,7 @@ Norapat Prombute
 
 Champ
 
-I am a Computer Engineering student with a strong enthusiasm for software development and data science. I thrive on
-tackling complex challenges through creativity and a deep understanding of problems.
+I'm Computer Engineering Student at Chulalongkorn University.
 
 🧰 Languages and Tools
 
