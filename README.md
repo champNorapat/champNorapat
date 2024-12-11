@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+
+###
 
 <!--
 **champNorapat/champNorapat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Norapat Prombute
+**<h2 align="center">Norapat Prombute</h>**
 
-Champ
+**<h2 align="center">Champ</h>**
 
-I'm Computer Engineering Student at Chulalongkorn University.
+###
+
+**<h3 align="center">I'm Computer Engineering Student at Chulalongkorn University.</h>**
+
+###
 
 🧰 Languages and Tools
 
