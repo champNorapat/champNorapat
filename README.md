@@ -17,10 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**<h2 align="center">Norapat Prombute</h>
-<h2 align="center">Champ</h>**
-
-###
+<h2 align="center">Norapat Prombute</h>
+<h2 align="center">Champ</h>
 
 **<h3 align="center">I'm Computer Engineering Student at Chulalongkorn University.</h>**
 
