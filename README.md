@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi, I'm Champ 👋</h1>
 
 ###
 
@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Norapat Prombute</h><br><br><h2 align="center">Champ</h>
-
 **<h3 align="center">I'm Computer Engineering Student at Chulalongkorn University.</h>**
 
 ###
 
-🧰 Languages and Tools
+
+<h2 align="left">🧰 Languages and Tools</h2>
+
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/download/452110/swift.svg" />
 <br />
-
-#
 
 #
 
